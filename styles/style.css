@@ -331,7 +331,7 @@ button:active {
 
 button:focus-visible {
   outline: 1px solid #fff;
-  outline-offset: 2px;
+  outline-offset: 3px;
 }
 
 .search-form__textfield:focus-visible {
